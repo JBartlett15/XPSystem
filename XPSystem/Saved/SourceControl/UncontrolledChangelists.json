@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/j/XPSystem/XPSystem/Content/XPSystem/AC_XP.uasset",
+				"D:/j/XPSystem/XPSystem/Content/XPSystem/BP_XPComponent.uasset",
+				"D:/j/XPSystem/XPSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/j/XPSystem/XPSystem/Content/XPSystem/XPData.uasset",
+				"D:/j/XPSystem/XPSystem/Content/XPSystem/SXPData.uasset",
+				"D:/j/XPSystem/XPSystem/Content/XPSystem/WBP_XPBar.uasset"
+			]
+		}
+	]
+}
