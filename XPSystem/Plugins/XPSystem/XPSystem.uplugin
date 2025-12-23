@@ -5,13 +5,13 @@
 	"FriendlyName": "XPSystem",
 	"Description": "",
 	"Category": "Other",
-	"CreatedBy": "",
-	"CreatedByURL": "",
+	"CreatedBy": "Josie Bartlett",
+	"CreatedByURL": "https://jbartlett.red/",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
-	"IsBetaVersion": false,
+	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
 	"Installed": false
 }
